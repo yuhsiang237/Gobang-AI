@@ -307,7 +307,7 @@ public:
 			score = 200;
 		//雙活二
 		}else if(linelive2 >=2){
-			score = 200;
+			score = 100;
 		
 		//眠三
 		}else if(lineSleep3>=1){
