@@ -306,13 +306,12 @@ public:
 		else if(linelive3 >=1 ){
 			score = 200;
 		//雙活二
-		}else if(linelive2 >=1){
-			score = 100;
+		}else if(linelive2 >=2){
+			score = 200;
 		
 		//眠三
 		}else if(lineSleep3>=1){
 			score = 50;
-		
 		//活二
 		}else if(linelive2 >=1){
 			score = 5;
