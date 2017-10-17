@@ -2,7 +2,7 @@
 依照權重製作的五子棋AI。
 ### Usage
 使用g++編譯
-<pre>g++ run.py</pre>
+<pre>g++ run.cpp</pre>
 執行編譯好的檔案
 <pre>./a.out</pre>
 
